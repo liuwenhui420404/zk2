@@ -1,0 +1,8 @@
+* {
+  list-style: none;
+  background: skyblue;
+  font-size: 0.32rem;
+}
+.show {
+  display: none;
+}
